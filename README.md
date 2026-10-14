@@ -1,5 +1,16 @@
 ## Résultats
 
+### 1. Exécution de l'application (App)
+
+![Exécution de App](captures/execution-app.png)
+
+Explication : ...
+
+### 2. Résultat des tests (mvn test)
+
+![Résultat des tests](captures/resultat-tests.png)
+
+Explication : ...
 ### 1. Exécution de l'application (`App`)
 
 ![Exécution de App](captures/execution-app.png)
